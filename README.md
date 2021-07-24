@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @14-Mini, in-short 'mini', im a undergrad student in IT with average scores.
-- 👀 I’m interested learning python and discord .py.
+- 👀 I’m interested in playing online games and making some team projects.
 - 🌱 I’m currently learning learning python and discord .py.
 - 💞️ I’m looking to collaborate on some intermediate level python projects so anyone who's up can send me a text or reach me out on my mail.
 - 📫 How to reach me: sabintwayana523@gmail.com
