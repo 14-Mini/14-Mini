@@ -5,9 +5,9 @@
 - 📫 How to reach me: sabintwayana523@gmail.com
 
 - I've got a dream to acheive within my early 20's so im starting to grind real hard for it, Dreams without Goals are just dreams so you know, focus on the process not the goal.
-- And yeah lastly, im a introverted one :)
+- And yeah lastly, im an introverted one :)
 
-999
+  999
 
 <!---
 14-Mini/14-Mini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
