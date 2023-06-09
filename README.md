@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @14-Mini, in-short 'mini', im an undergrad student in IT with average scores.
-- 👀 I’m interested in playing online games and making some team projects, hmu if you're an intermediate level python programmer and wanna create a project together.
-- 🌱 I’m currently learning python and discord .py. 
-- 💞️ I’m looking to collaborate on some intermediate level python projects so anyone who's up can send me a text or reach me out on my mail.
+- 👋 Hi, I’m @14-Mini, in-short 'mini', im an undergrad student in IT with above-average scores.
+- 👀 I’m interested in making some team projects, learning new things, hit me up if you're an intermediate level python/java programmer and wanna create a project together or maybe a Website(frontend).
+- 🌱 I’m currently learning python, java, html,css, javaScript, linux.
 - 📫 How to reach me: sabintwayana523@@gmail.com
 
 - I've got a dream to acheive within my early 20's so im starting to grind real hard for it, Dreams without Goals are just dreams so you know, focus on the process not the goal.
